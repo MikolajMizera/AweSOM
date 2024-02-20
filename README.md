@@ -1,2 +1,2 @@
-# AweSOM
-Simply AweSOM - implementation of Self-Organizing Map algorithm in python. 
+# AweSOMe
+Simply AweSOMe - implementation of Self-Organizing Map algorithm in python. 
