@@ -1,0 +1,5 @@
+.vscode
+.conda
+.mypy_cache
+.pre-commit-config.yaml
+*egg-info*
